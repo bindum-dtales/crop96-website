@@ -139,7 +139,7 @@ export function EnquiryForm() {
             type="tel"
             required
             autoComplete="tel"
-            placeholder="+91 98765 43210"
+            placeholder="+91 90713 51119"
             className={field}
           />
         </div>

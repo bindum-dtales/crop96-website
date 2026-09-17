@@ -9,13 +9,13 @@ export const NAV = [
 ] as const
 
 export const CONTACT = {
-  phone: '+91 98765 43210',
-  phoneHref: 'tel:+919876543210',
+  phone: '9071351119',
+  phoneHref: 'https://wa.me/919071351119',
   email: 'contact.crop96@gmail.com',
   emailHref: 'mailto:contact.crop96@gmail.com',
   address: 'Bengaluru, Karnataka, India',
   whatsapp: 'Chat on WhatsApp',
-  whatsappHref: 'https://wa.me/919876543210',
+  whatsappHref: 'https://wa.me/919071351119',
   linkedinHref: 'https://www.linkedin.com/',
 }
 
